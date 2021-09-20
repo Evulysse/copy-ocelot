@@ -30,7 +30,7 @@ margin-left: 20px;
 padding-top: 10px;  
 }
 .blue {
-background-color: rgba(68, 90, 150, 0.993);
+background-color: rgba(18, 74, 107, 0.993);
 border: black 1px;
 color:white;
 padding: 10px;
@@ -94,14 +94,10 @@ padding-top: 20px;
 color: white;
  }
 
- .button {
+.button {
      
 background-color: white;
 color: black;
 border: 2px solid lightgray;
 margin: 2px;
-padding:2px;
-align-items: center;
-justify-self: unset;
-display: flex;
-flex-direction: row;
+padding:2px:
